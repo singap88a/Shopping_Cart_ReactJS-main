@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name":"Laptop DELL G15  ",
+    "price": 100.99 ,
+    "imgUrl": "/imgs/xx.jpg"
+     
+
+    
+  },
+  {
+    "id": 2,
+    "name": "Lenovo IdeaPad Gaming 3",
+    "price": 119,
+    "imgUrl": "/imgs/lenvo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo Legion 5 Gaming",
+    "price": 100.05,
+    "imgUrl": "/imgs/lenvo1.webp"
+  },
+  {
+    "id": 4,
+    "name": "HP Victus Gaming 16-Inch ",
+    "price": 130,
+    "imgUrl": "/imgs/hp1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ASUS TUF Gaming F15: i7-",
+    "price": 160,
+    "imgUrl": "/imgs/asus.jpg"
+  },
+  {
+    "id": 6,
+    "name": "HP Victus 15 Gaming Laptop",
+    "price": 100,
+    "imgUrl": "/imgs/hp2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "LenovoLegion 5 15ACH6 Gamingggg g ggg ggggh ",
+    "price": 99,
+    "imgUrl": "/imgs/lenvo1.webp"
+  }
+ 
+]
